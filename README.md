@@ -2,6 +2,9 @@
 
 NYC Airbnb analysis
 
+https://docs.google.com/spreadsheets/d/1F9M3Jg0T5apgmBYWN9xZLZNIEALZ9sWDfY6OvQwgaJQ/edit?usp=drivesdk
+
+
 Ten most attractive neighborhoods for vacation rentals in the last twelve months:
 
 - Cleaned the neighborhood column. Removed inconsistent capitalization and trailing spaces. 
