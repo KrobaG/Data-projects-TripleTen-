@@ -34,3 +34,6 @@ App Reviews
 - Added a Filter for this visual only which selects only the rows where reviews_count is greater than 500.
 
 [App_Landscape](/../main/App_Landscape.png)
+[Reviews](/../main/Reviews.png)
+[App_Reviews](/../main/App_Reviews.png)
+[Popular_Reviwes](/../main/Popular_Reviews)
