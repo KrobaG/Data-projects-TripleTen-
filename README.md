@@ -39,4 +39,4 @@ App Reviews
 
 [App_Reviews](/../main/App_Reviews.png)
 
-[Popular_Reviwes](/../main/Popular_Reviews)
+[Popular_Reviews](/../main/Popular_Reviews.png)
