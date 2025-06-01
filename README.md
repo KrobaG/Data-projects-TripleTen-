@@ -2,6 +2,9 @@
 
 Superstore Analysis
 
+https://public.tableau.com/shared/43PB88QCJ?:display_count=n&:origin=viz_share_link
+
+
 - Returns table left joined onto orders table.
 - Made a calculated field for the returned values where the null values are 0 and the Yes values are 1.
 - Created a calculated field for Return Rate where the sum of returned valus are divided by the sum of quantity.
