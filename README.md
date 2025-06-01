@@ -32,3 +32,5 @@ App Reviews
 - Made a new bar chart with developer on the X-Axis against the helpful_review average on the Y-Axis.
 - Made a bar chart with the developer from the apps table and the developer_answered.
 - Added a Filter for this visual only which selects only the rows where reviews_count is greater than 500.
+
+[App_Landscape](/../main/App_Landscape.png)
