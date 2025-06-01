@@ -6,4 +6,4 @@
 [Shopify_Analysis_Readme](/../Shopify-Analysis/README.md)
 
 
-[Superstore_Analysis](/../Superstore-Analysis/README.md)
+[Superstore_Analysis_Readme](/../Superstore-Analysis/README.md)
