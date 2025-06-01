@@ -1,6 +1,6 @@
 # Data-projects-TripleTen-
 
-NYC Airbnb analysis
+***NYC Airbnb analysis***
 
 https://docs.google.com/spreadsheets/d/1F9M3Jg0T5apgmBYWN9xZLZNIEALZ9sWDfY6OvQwgaJQ/edit?usp=drivesdk
 
