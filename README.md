@@ -1,6 +1,6 @@
 # Data-projects-TripleTen-
 
-Superstore Analysis
+***Superstore Analysis***
 
 https://public.tableau.com/shared/43PB88QCJ?:display_count=n&:origin=viz_share_link
 
