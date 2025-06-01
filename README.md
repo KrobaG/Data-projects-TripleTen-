@@ -1,6 +1,6 @@
 # Data-projects-TripleTen-
 
-Shopify Analysis 
+***Shopify Analysis***
 
 Reviewed the landscape of apps on the Shopify platform, using data scraped from publicly available Shopify websites. 
 
